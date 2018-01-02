@@ -12,8 +12,7 @@
 
 由于还刚刚开始做，使用方法为将GestureView文件夹下的几个java文件拷贝到工程里。
 
-![image](http://qiniu.zzzia.net/gestureview.gif)
-
+![image](https://github.com/Zzzia/Files/blob/master/gifs/gestureView.gif)
 
 
 原理是自定义一个只监听事件，不消费事件的继承自FrameLayout的控件。
@@ -21,7 +20,7 @@
 内置缩放，平移等操作（目前只有缩放），让动画更简单。
 
 ~~~java
-//用这个可以添加多个view自动根据手势进行缩放，例如gif中最上面那两个图。
+//用这个可以添加多个任意位置的view自动根据手势进行缩放，例如gif中最上面那两个图。
 //只需将GestureView置于需要监听手势的顶层，或者将它作为父布局。
 gestureView.attachScaleView(view)
 ~~~
