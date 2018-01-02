@@ -12,7 +12,7 @@
 
 由于还刚刚开始做，使用方法为将GestureView文件夹下的几个java文件拷贝到工程里。
 
-![ezgif.com-video-to-gif](http://qiniu.zzzia.net/ezgif.com-video-to-gif.gif)
+![image](http://qiniu.zzzia.net/gestureview.gif)
 
 
 
